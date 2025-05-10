@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Gabriela Loho 👋
 
-<!--
-**gabrielaloho/gabrielaloho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, programming, and creating impactful projects. Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning new skills in software development and exploring cutting-edge technologies.
+- 💡 I enjoy solving problems, building applications, and contributing to open source.
+- 🎯 My goal is to make a positive impact through code and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, VS Code, GitHub Actions
+- **Other Skills:** Database Management, REST APIs, System Design
+
+## 📈 GitHub Stats
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaloho&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Gabriela Loho](https://linkedin.com/in/gabrielaloho)
+- Portfolio: [gabrielaloho.dev](https://gabrielaloho.dev)
+
+## 🌟 Fun Facts
+- 📚 Avid reader and lifelong learner.
+- 🌍 Love traveling and exploring new cultures.
+- 🎨 Enjoy sketching and digital art in my free time.
+
+---
+
+⚡ **"Building the future, one line of code at a time."**
